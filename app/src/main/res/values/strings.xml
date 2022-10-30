@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="plus">Welcome</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="minimize">-</string>
+    <string name="answer">ANS</string>
+    <string name="firstvalue">First Value</string>
+    <string name="secondvalue">Second Value</string>
+    <string name="PLUS">+</string>
+</resources>
